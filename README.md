@@ -1,5 +1,5 @@
-# debounceTime 
-debounceTime & distinctUntilChanged | RxJS usage
+# debounceTime & distinctUntilChanged | RxJS app
+
 # map()
 
 # RXjs debounceTime 
